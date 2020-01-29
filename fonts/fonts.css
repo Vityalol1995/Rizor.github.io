@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "RubikMonoOne-Regular";
+    src: url("RubikMonoOne-Regular/RubikMonoOne-Regular.eot");
+    src: url("RubikMonoOne-Regular/RubikMonoOne-Regular.eot?#iefix")format("embedded-opentype"),
+    url("RubikMonoOne-Regular/RubikMonoOne-Regular.woff") format("woff"),
+    url("RubikMonoOne-Regular/RubikMonoOne-Regular.ttf") format("truetype"),
+    url("RubikMonoOne-Regular/RubikMonoOne-Regular.otf");    
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Roboto-Bold";
+    src: url("Roboto-Bold/Roboto-Bold.eot");
+    src: url("Roboto-Bold/Roboto-Bold.eot?#iefix")format("embedded-opentype"),
+    url("Roboto-Bold/Roboto-Bold.woff") format("woff"),
+    url("Roboto-Bold/Roboto-Bold.ttf") format("truetype");  
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Roboto-Light";
+    src: url("Roboto-Light/Roboto-Light.eot");
+    src: url("Roboto-Light/Roboto-Light.eot?#iefix")format("embedded-opentype"),
+    url("Roboto-Light/Roboto-Light.woff") format("woff"),
+    url("Roboto-Light/Roboto-Light.ttf") format("truetype");  
+    font-style: normal;
+    font-weight: normal;
+}
